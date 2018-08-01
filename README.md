@@ -1,17 +1,17 @@
 # liri-node-app
-<!-- OVERVIEW
+OVERVIEW
 
- LIRI is a Language Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.
+LIRI is a Language Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.
 
 LIRI takes in the following commands:
 
-* `my-tweets`
+my-tweets
 
-* `spotify-this-song`
+spotify-this-song
 
-* `movie-this`
+movie-this
 
-* `do-what-it-says`
+do-what-it-says
 
 
 What Each Command Should Do
@@ -65,4 +65,4 @@ Using the fs Node package, LIRI will take the text inside of random.txt and then
 It should run spotify-this-song for "I Want it That Way," as follows the text in random.txt. -->
 
 
-This app will also log your return information information in a LOG file
+This app will also log your return information information in a LOG file -->
