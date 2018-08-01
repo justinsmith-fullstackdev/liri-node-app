@@ -5,13 +5,13 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI will be a comm
 
 LIRI takes in the following commands:
 
-my-tweets
+node liri.js my-tweets
 
-spotify-this-song
+node liri.js spotify-this-song '<song name here>'
 
-movie-this
+node liri.js movie-this '<movie name here>'
 
-do-what-it-says
+node liri.js do-what-it-says
 
 
 What Each Command Should Do
